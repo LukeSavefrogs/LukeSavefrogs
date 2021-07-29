@@ -1,4 +1,13 @@
-### Hi there 👋
+### About myself
+_Work in progress..._
+
+### Some stats
+![LukeSavefrogs's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeSavefrogs&count_private=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeSavefrogs&langs_count=8&layout=compact&theme=tokyonight)
+
+
 
 <!--
 **LukeSavefrogs/LukeSavefrogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
