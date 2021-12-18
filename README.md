@@ -3,10 +3,10 @@ I'm a very curious person and because of this I like to play around with a lot o
 
 Until now i've tried:
 - Vanilla and Es6 Javascript/NodeJS/VueJS
-- Python (v.4+)
-- Bash
+- Python (v2.7 and 3.3+, i always use 3.6 or 3.9; unfortunately for work i have to use 2.7)
+- Bash (v4+)
 - HTML/CSS
-- PHP
+- PHP (v7.4)
 - AutoHotkey
 - AutoIt
 - C#
