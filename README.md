@@ -1,5 +1,22 @@
 ### About myself
-_Work in progress..._
+I'm a very curious person and because of this I like to play around with a lot of programming languages...
+
+Until now i've tried:
+- Vanilla and Es6 Javascript/NodeJS/VueJS
+- Python (v.4+)
+- Bash
+- HTML/CSS
+- PHP
+- AutoHotkey
+- AutoIt
+- C#
+- Some more i didn't use much...
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=LukeSavefrogs&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+Oh i almost forgot... I'm lazy so i script everything i can so that the computer does the work for me 😃
+
 
 ### Some stats
 ![LukeSavefrogs's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeSavefrogs&count_private=true&theme=tokyonight)
