@@ -6,6 +6,7 @@ Until now i've tried:
 - Vanilla and Es6 Javascript/NodeJS/VueJS
 - Python (v2.7 and 3.3+, i always use 3.6 or 3.9; unfortunately at work i had to use 2.7)
 - Bash (v4+)
+- Perl 5
 - HTML/CSS
 - PHP (v7.4)
 - AutoHotkey
@@ -20,24 +21,6 @@ Oh i almost forgot... I'm lazy so i script everything i can so that the computer
 
 
 ### Some stats
-![LukeSavefrogs's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeSavefrogs&count_private=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeSavefrogs&count_private=true&theme=tokyonight)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeSavefrogs&langs_count=8&layout=compact&theme=tokyonight)
-
-
-
-<!--
-**LukeSavefrogs/LukeSavefrogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages i used](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeSavefrogs&langs_count=8&layout=compact&theme=tokyonight)
