@@ -1,9 +1,10 @@
 ### About myself
 I'm a very curious person and because of this I like to play around with a lot of programming languages...
+I'm an Open Source enthusiast and i like to contribute where i can help..
 
 Until now i've tried:
 - Vanilla and Es6 Javascript/NodeJS/VueJS
-- Python (v2.7 and 3.3+, i always use 3.6 or 3.9; unfortunately for work i have to use 2.7)
+- Python (v2.7 and 3.3+, i always use 3.6 or 3.9; unfortunately at work i had to use 2.7)
 - Bash (v4+)
 - HTML/CSS
 - PHP (v7.4)
