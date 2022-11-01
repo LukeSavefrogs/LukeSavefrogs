@@ -14,7 +14,7 @@ Until now i've tried:
 - C#
 - Some more i didn't use much...
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=LukeSavefrogs&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![LukeSavefrogs's github trophy](https://github-profile-trophy.vercel.app/?username=LukeSavefrogs&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Oh i almost forgot... I'm lazy so i script everything i can so that the computer does the work for me 😃
