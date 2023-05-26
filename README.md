@@ -1,5 +1,3 @@
-# Here I am
-
 ## Who am I?
 My name is **Luca Salvarani**, and I'm an Italian developer based in Rome.
 
